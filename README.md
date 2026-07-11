@@ -1,1 +1,1 @@
-# HasiniAtakula-Web-Technologies-Assignment
+#Web-Technologies-Assignment
